@@ -130,3 +130,12 @@ small {
     margin-left: 15px;
     color: rgba(113, 121, 9, 0.8);
 }
+
+.form-group {
+    margin-top: 10px;
+}
+
+.register-form {
+    float: right;
+    margin-right: 20px;
+}
